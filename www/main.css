@@ -1,0 +1,56 @@
+/*Button Styles*/
+.b{
+	position: relative;
+	width: 19vw;
+	height: 19vw;
+	border-radius: 1vw;
+	background-color: #aaa2a2;
+	padding: 1vw;
+	margin: 1vw;
+	display: inline-block;
+	font-size: 15vw;
+}
+.b2{
+	width: 40vw;
+	border-radius: 1vw;
+	box-shadow: 5px 5px 10px;
+	background-color: #aaa2a2;
+	padding: 1vw;
+	margin: 1vw;
+	display: inline-block;
+	font-size: 10vw;
+}
+.b:hover{
+	color: #d8d0d1;
+	box-shadow: 5px 5px 5px;
+}
+.bon{
+	position: relative;
+	background-color: #00e01d;
+	width: 19vw;
+	height: 19vw;
+	border-radius: 1vw;
+	padding: 1vw;
+	margin: 1vw;
+	display: inline-block;
+	font-size: 15vw;
+}
+.b2:hover{
+	color: #d8d0d1;
+	box-shadow: 5px 5px 5px;
+}
+.bon:hover{
+	color: #d8d0d1;
+	box-shadow: 5px 5px 5px;
+}
+/*Body Styles*/
+.header{
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 2px;
+	background: url(bg.png);
+	font-size: 5vw;
+	font-family: 'IM Fell English', serif;
+	width: 90vw;
+	height: 6vw;
+}
